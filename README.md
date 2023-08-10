@@ -7,7 +7,7 @@
 ## Table of Content
 
 <details>
-<summary><b>Course 1: </b><a href="#"><b>Introduction to Front-End Development</b></a></summary>
+<summary><b>Course 1: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/1%20-%20Introduction%20to%20Front-End%20Development"><b>Introduction to Front-End Development</b></a></summary>
 
   * Week 1: [Get started with web development]()
   * Week 2: [Introduction to HTML and CSS]()
