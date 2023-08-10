@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><b>Course 4: </b><a href=""><b>HTML and CSS in depth</b></a></summary>
+<summary><b>Course 4: </b><a href="#"><b>HTML and CSS in depth</b></a></summary>
 
   * Week 1: [HTML in depth]()
   * Week 2: [Interactive CSS]()
