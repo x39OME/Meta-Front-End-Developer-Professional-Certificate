@@ -13,4 +13,4 @@
 
 ## Proof of Completion
 
-<a href="https://www.coursera.org/account/accomplishments/verify/VBAXM7Y32S64">Introduction to Front-End Development</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/VBAXM7Y32S64"> Verified Coursera Certifies</a>
