@@ -14,3 +14,5 @@
 ## Proof of Completion
 
 <a href="https://www.coursera.org/account/accomplishments/verify/QRAE2J76FPJH"> Verified Coursera Certifies</a>
+
+<img src="./certificate.png" alt="certificate">
