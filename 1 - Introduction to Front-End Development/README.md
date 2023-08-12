@@ -12,6 +12,6 @@
   - Week 4: [End-of-Course Graded Assessment](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/1%20-%20Introduction%20to%20Front-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment)
 
 ## Proof of Completion
-
 <a href="https://www.coursera.org/account/accomplishments/verify/VBAXM7Y32S64"> Verified Coursera Certifies</a>
-<img src="./certificate.png">
+
+<img src="./certificate.png" alt="certificate.png">
