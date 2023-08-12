@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary><b>Course 2: </b><a href="[#](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20JavaScript)"><b>Programming with JavaScript</b></a></summary>
+<summary><b>Course 2: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20JavaScript"><b>Programming with JavaScript</b></a></summary>
 
   * Week 1: [Introduction to Javascript](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20JavaScript/Week%201%20-%20Introduction%20to%20Javascript)
   * Week 2: [The Building Blocks of a Program](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20JavaScript/Week%202%20-%20The%20Building%20Blocks%20of%20a%20Program)
