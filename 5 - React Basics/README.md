@@ -13,4 +13,6 @@
 
 ## Proof of Completion
 
-<img src="./certificate.png">
+<a href="https://www.coursera.org/account/accomplishments/verify/GBSR2278G4QS"> Verified Coursera Certifies</a>
+
+<img src="./certificate.png" alt="certificate">
