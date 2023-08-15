@@ -1,4 +1,4 @@
-# Principles of UX-UI Design
+# Coding Interview Preparation
 
 <img src="../logo.avif">
 
