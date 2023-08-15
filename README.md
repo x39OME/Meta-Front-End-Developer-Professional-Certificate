@@ -71,7 +71,7 @@
 </details>
 
 <details>
-<summary><b>Course 8: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/blob/main/8%20-%20Front-End%20Developer%20Capstone/README.md"><b>Front-End Developer Capstone</b></a></summary>
+<summary><b>Course 8: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/8%20-%20Front-End%20Developer%20Capstone"><b>Front-End Developer Capstone</b></a></summary>
 
   * Week 1: 
   * Week 2: 
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary><b>Course 9: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/blob/main/9%20-%20Coding%20Interview%20Preparation/README.md"><b>Coding Interview Preparation</b></a></summary>
+<summary><b>Course 9: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation"><b>Coding Interview Preparation</b></a></summary>
 
   * Week 1: 
   * Week 2: 
