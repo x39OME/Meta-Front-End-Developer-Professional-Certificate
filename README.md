@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Course 7: </b><a href="#"><b>Principles of UI/UX Design</b></a></summary>
+<summary><b>Course 7: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/7%20-%20Principles%20of%20UX-UI%20Design"><b>Principles of UI/UX Design</b></a></summary>
 
   * Week 1: [Introduction to UX and UI design]()
   * Week 2: [Evaluating interactive design]()
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-<summary><b>Course 8: </b><a href="#"><b>Front-End Developer Capstone</b></a></summary>
+<summary><b>Course 8: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/blob/main/8%20-%20Front-End%20Developer%20Capstone/README.md"><b>Front-End Developer Capstone</b></a></summary>
 
   * Week 1: 
   * Week 2: 
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary><b>Course 9: </b><a href="#"><b>Coding Interview Preparation</b></a></summary>
+<summary><b>Course 9: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/blob/main/9%20-%20Coding%20Interview%20Preparation/README.md"><b>Coding Interview Preparation</b></a></summary>
 
   * Week 1: 
   * Week 2: 
