@@ -9,7 +9,7 @@
   - Week 1: []()
   - Week 2: []()
   - Week 3: []()
-  - Week 4: [Final project]()
+  - Week 4: []()
 
 ## Proof of Completion
 
