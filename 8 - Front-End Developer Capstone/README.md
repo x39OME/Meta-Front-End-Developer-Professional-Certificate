@@ -1,4 +1,4 @@
-# Principles of UX-UI Design
+# Front-End Developer Capstone
 
 <img src="../logo.avif">
 
