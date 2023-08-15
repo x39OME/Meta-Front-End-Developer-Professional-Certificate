@@ -92,4 +92,6 @@
 
 ## Proof of Completion
 
-- 
+- <a href=""> Verified Coursera Certifies</a>
+
+<img src="./certificate.png" alt="certificate">
