@@ -52,7 +52,7 @@
 </details>
 
 <details>
-<summary><b>Course 6: </b><a href="#"><b>Advanced React</b></a></summary>
+<summary><b>Course 6: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/5%20-%20React%20Basics"><b>Advanced React</b></a></summary>
 
   * Week 1: [Components](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/6%20-%20Advanced%20React/Week%201%20-%20Components)
   * Week 2: [React Hooks and Custom Hooks](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/6%20-%20Advanced%20React/Week%202%20-%20React%20Hooks%20and%20Custom%20Hooks)
