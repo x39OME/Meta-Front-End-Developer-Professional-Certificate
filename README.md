@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary><b>Course 3: </b><a href="#"><b>Version Control</b></a></summary>
+<summary><b>Course 3: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/3%20-%20Version%20Control"><b>Version Control</b></a></summary>
 
   * Week 1: [Software collaboration](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/3%20-%20Version%20Control/Week%201%20-%20Software%20collaboration)
   * Week 2: [Command Line](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/3%20-%20Version%20Control/Week%202%20-%20Command%20Line)
