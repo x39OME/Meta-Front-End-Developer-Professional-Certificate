@@ -1,5 +1,8 @@
 # Graded Assessment: Portfolio app
 
+- npm install
+- npm start
+
 ## Task
 
 In this final lab, you are going to create a portfolio page for yourself. You will be using the skills you have learned in this course to create a page that showcases your work.
