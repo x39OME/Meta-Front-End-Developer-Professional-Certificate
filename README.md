@@ -83,10 +83,10 @@
 <details>
 <summary><b>Course 9: </b><a href="https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation"><b>Coding Interview Preparation</b></a></summary>
 
-  * Week 1: 
-  * Week 2: 
-  * Week 3: 
-  * Week 4: 
+  * Week 1: [Introduction To The Coding Interview](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation/%E2%80%8F%E2%80%8FWeek%201%20-%20Introduction%20To%20The%20Coding%20Interview)
+  * Week 2: [Introduction To Data Structures](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation/Week%202%20-%20Introduction%20To%20Data%20Structures)
+  * Week 3: [Introduction To Algorithms](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation/Week%203%20-%20Introduction%20to%20Algorithms)
+  * Week 4: [Final project]()
 </details>
 
 ## Proof of Completion
