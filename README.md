@@ -86,11 +86,11 @@
   * Week 1: [Introduction To The Coding Interview](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation/%E2%80%8F%E2%80%8FWeek%201%20-%20Introduction%20To%20The%20Coding%20Interview)
   * Week 2: [Introduction To Data Structures](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation/Week%202%20-%20Introduction%20To%20Data%20Structures)
   * Week 3: [Introduction To Algorithms](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation/Week%203%20-%20Introduction%20To%20Algorithms)
-  * Week 4: [Final project]()
+  * Week 4: [Final project](https://github.com/x39OME/Meta-Front-End-Developer-Professional-Certificate/tree/main/9%20-%20Coding%20Interview%20Preparation/Week%204%20-%20Final%20Project)
 </details>
 
 ## Proof of Completion
 
-- <a href=""> Verified Coursera Certifies</a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/3ZPNF43WDT5F"> Verified Coursera Certifies</a>
 
 <img src="./certificate.png" alt="certificate">
